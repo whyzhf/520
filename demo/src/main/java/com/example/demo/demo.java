@@ -6,4 +6,7 @@ package com.example.demo;
  * @Deacription:
  */
 public class demo {
+    public static void main(String[] args) {
+
+    }
 }
