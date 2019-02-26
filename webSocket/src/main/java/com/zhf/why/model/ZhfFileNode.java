@@ -12,7 +12,6 @@ public class ZhfFileNode {
     private int parId;
 
     //pp
-
     private ArrayList<ZhfFileNode> children;
     public ZhfFileNode() {
         super();
