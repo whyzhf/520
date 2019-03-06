@@ -15,6 +15,7 @@ public class Demo2 {
 		Object[] obj3={"w","2","4"};
 		Object[] obj4={"w","5","1"};
 		Object[] obj5={"w","1","6"};
+
 		list.add(obj);
 		list.add(obj1);
 		list.add(obj2);
